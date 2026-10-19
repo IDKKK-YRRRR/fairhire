@@ -1,4 +1,4 @@
-                st.rerun()
+
         if files and st.button("Process uploaded files", type="primary", use_container_width=True):
             new_records=[]
             for f in files:
